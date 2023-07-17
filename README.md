@@ -12,11 +12,13 @@ These two applications are connected to each other using a REST API.
 Additionally, the application sends requests to the database every 5 seconds to keep the list up to date,
 and any changes made are reflected on the screen immediately.
 
+
 1 )Main Screen
 
-![Main Screen]([resim_url](https://github.com/huseyiinozel/Node-js---Express-js-Rest-Api-with-React-Native-Book-Project-Firebase-Databse/blob/main/1.jpg)https://github.com/huseyiinozel/Node-js---Express-js-Rest-Api-with-React-Native-Book-Project-Firebase-Databse/blob/main/1.jpg)
+![Resim Açıklaması](https://github.com/huseyiinozel/Node-js---Express-js-Rest-Api-with-React-Native-Book-Project-Firebase-Databse/blob/main/1.jpg)
 
 
 2) Old Screen
 
-![Old Page]([resim_url](https://github.com/huseyiinozel/Node-js---Express-js-Rest-Api-with-React-Native-Book-Project-Firebase-Databse/blob/main/2.jpg)https://github.com/huseyiinozel/Node-js---Express-js-Rest-Api-with-React-Native-Book-Project-Firebase-Databse/blob/main/2.jpg)
+![Resim Açıklaması](https://github.com/huseyiinozel/Node-js---Express-js-Rest-Api-with-React-Native-Book-Project-Firebase-Databse/blob/main/2.jpg)
+
